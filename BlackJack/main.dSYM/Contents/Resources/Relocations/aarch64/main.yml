@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kimkyoungmin/Desktop/01_Personal/99.Code/code/BlackJack/main'
+relocations:     []
+...
